@@ -1,0 +1,49 @@
+**** File ****
+Euk_samples_PR2_2.csv
+
+**** Data **** 
+Number of reads per OTU per sample from 18S rRNA
+
+**** Missing data code ****
+NA
+
+**** Column description ****
+Column number ----- Column name [Unit]
+	Further description or details
+
+Note: columns 4-5-6 are the exact same than 7-8-9, but were added to match the 16S rRNA matrix format (in terms of column number). This is pertinent to the Rcode. Do not delete the duplicate!
+
+1 ----- OTU [ ]
+	Operational Taxonomic Unit number
+
+2 ----- taxo_1 [ ]
+	Taxonomic Domain
+
+3 ----- taxo_2 [ ]
+	Taxonomic SuperPhylum
+
+4 ----- taxo_3 [ ]
+	Taxonomic Class
+
+5 ----- genus [ ]
+	Taxonomic Genus
+
+6 ----- specie [ ]
+	Taxonomic Species
+
+7 ----- taxo_3 [ ]
+	Taxonomic Class
+
+8 ----- genus [ ]
+	Taxonomic Genus
+
+9 ----- specie [ ]
+	Taxonomic Species
+
+10 - 52 Lake ID [Number of reads per sample]
+	Column names are samples ID as in chem.csv
+	LCT, LCL, LSA and LSC are lake names ID
+	The three letters are the month first three letters
+	The two digits are the last two digits of the year
+	F at the end denotes a bottom water sample (as oppose to surface for all others)
+	LSC had two sampling dates in August 2017, so there is also the sampling day (24 and 31)

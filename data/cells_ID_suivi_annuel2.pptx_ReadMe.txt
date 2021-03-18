@@ -1,0 +1,23 @@
+**** File ****
+cells_ID_suivi_annuel2.pptx
+
+**** Data **** 
+Pictures associated with the microscopy data
+
+**** Notes ****
+
+1 - All pictures are at 1000X unless otherwise specified
+
+2 - Yellowish pictures are from Lugol preserved samples, while blueish pictures are from live samples
+
+3 - On the slides, « Species nickname » is the name I gave that particular cell in my dataset to distinguish the unknown or two different yet unidentified species from the same genus
+
+4 - Scales on the pictures to micrometer conversion
+
+	1000X → 1 unit = 1 µm
+
+	400X → 1 unit = 2.5 µm
+
+	200X → 1 unit = 5 µm
+
+5 - Please de not distribute without either my name or the publication, or both if applicable

@@ -1,0 +1,32 @@
+**** File ****
+Chloroplasts.csv
+
+**** Data **** 
+Number of reads per OTU per sample from 16S rRNA chloroplasts 
+
+**** Missing data code ****
+NA
+
+**** Column description ****
+Column number ----- Column name [Unit]
+	Further description or details
+
+1 ----- OTU [ ]
+	Operational Taxonomic Unit number
+
+2 ----- Group [ ]
+	Taxonomic Class
+
+3 ----- taxo5 [ ]
+	Taxonomic Genus
+
+4 ----- taxo6 [ ]
+	Taxonomic Species
+
+5 -- 47 Lake ID [Number of reads per sample]
+	Column names are samples ID as in chem.csv
+	LCT, LCL, LSA and LSC are lake names ID
+	The three letters are the month first three letters
+	The two digits are the last two digits of the year
+	F at the end denotes a bottom water sample (as oppose to surface for all others)
+	LSC had two sampling dates in August 2017, so there is also the sampling day (24 and 31)

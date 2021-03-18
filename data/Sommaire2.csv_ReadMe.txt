@@ -1,0 +1,38 @@
+**** File ****
+Sommaire2.csv
+
+**** Data **** 
+Microscopy data of samples from surface water (0-50 cm) 
+
+**** Missing data code ****
+NA
+
+**** Column description ****
+Column number ----- Column name [Unit]
+	Further description or details
+
+1 ----- Family [ ]
+	Taxonomic Group
+
+2 ----- Genus [ ]
+	Taxonomic Genus
+
+3 ----- Species [ ]
+	Taxonomic Species
+
+4 ----- Diapo [ ]
+	Page number in the cells_ID_suivi_annuel2.pptx file
+
+5 ----- Volume_code [ ]
+	Code needed to apply the conversion from biovolume to biomass
+
+6 ----- Volume [Micrometer cube]
+	Volume of one cell or colony
+	
+7 -- 34 Sample_ID [Number of organisms per Milliliter]
+	Column names are samples ID as in chem.csv
+	LCT, LCL, LSA and LSC are lake names ID
+	The three letters are the month first three letters
+	The two digits are the last two digits of the year
+	F at the end denotes a bottom water sample (as oppose to surface for all others)
+	LSC had two sampling dates in August 2017, so there is also the sampling day (24 and 31)

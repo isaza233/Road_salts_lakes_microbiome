@@ -1,0 +1,79 @@
+Family;Genus;Species;Diapo;Volume_code;Volume;LCT_jan_17;LCT_feb_17;LCT_mar_17;LCT_may_17;LCT_jul_17;LCT_sep_17;LCT_oct_16;LCL_jan_17;LCL_feb_17;LCL_mar_17;LCL_may_17;LCL_jul_17;LCL_sep_17;LSA_jan_17;LSA_feb_17;LSA_mar_17;LSA_may_17;LSA_jul_17;LSA_sep_17;LSA_oct_16;LSC_jan_17;LSC_feb_17;LSC_mar_17;LSC_may_17;LSC_jul_17;LSC_24_aug_17;LSC_31_aug_17;LSC_sep_17
+Cyanobacteria;Aphanizomenon;flos-aquae;3;Unknown_small;406;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1399.82;0;0;0;0;0;0;0;0;0;0
+Cyanobacteria;Aphanizomenon;akinetes;4;Unknown_small;59;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21.87;0;38.28;0;0;0;0;0;0;0;0
+Diatom;Asterionella;formosa;5;Diatom_big;4960;0;0;0;0;0;0;13.28;0;0;0;0;0;0;0;0;0;374.95;0;0;21.87;1.62;0;0;2.76;85.7;17.5;10.94;128.38
+Chlorophyta;Asterococcus ;unclassified;6;Chlorophytes;127;0;0;0;15.62;0;0;0;0;0;0;8.41;7.09;0;0;0;0;637.42;0;0;0;0;0;0;2.76;0;0;0;2.85
+Diatom;Aulacoseira;c.f. italica;7;Diatom_big;8827;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10.94;0;0;0;0;0;4.37;0;0
+Chrysophyta;Bitrichia;unclassified;9;Chrysophytes;81;0;0;0;27.34;4.04;5.41;0;0;0;0;0;0;0;0;0;0;0;65.62;0;0;0;0;0;2.76;24.48;4.37;16.4;0
+Dinoflagellates;Ceratium;hirundinella;11;Dinoflagellates;28679;0;0;0;0;0;0;0;0;0;0;0;0;5.7;0;0;0;0;0;0;0;0;0;0;0;24.48;0;0;0
+Dinoflagellates;Ceratium;furca;12;Dinoflagellates;33420;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44.6;0;0;0;0;0;0;0;0;0
+Chlorophyta;Chlamydomonas;rond;13;Chlorophytes;232;170.67;5.58;207.21;195.29;678.38;54.06;64.05;1.93;0;0;8.41;0;57.02;4.94;187.87;529.79;2249.72;109.36;401.37;21.87;81.66;42.71;460.47;922.78;403.99;0;0;29.48
+Chlorophyta;Chloromonas;unclassified;14;Unknown_small;186;0;0;17.96;0;0;0;0;0;0;30.28;0;28.37;74.12;0;0;0;37.5;21.87;0;0;0;0;0;0;0;0;0;0
+Flagellates;Choanoflagellate;unclassified;15;Unknown_small;40;0;0;0;0;0;32.43;0;90.06;0;0;0;0;5.7;0;0;0;0;0;104.06;0;0;0;0;0;195.87;21.87;103.89;0
+Haptophytes;Chrysochromulina;parva;16;Chrysophytes;232;0;0;0;0;0;0;0;0;0;0;0;0;0;240.59;566.38;0;8436.43;109.36;14.87;349.96;0;0;0;0;0;0;0;0
+Cyanobacteria;Chroococcus;unclassified;17;Unknown_small;227;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36.73;35;0;0
+Chlorophyta;Coelastrum;unclassified;18;Chlorophytes;19;0;0;0;0;0;0;0;0;0;0;11.78;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Chlorophyta;Crucigeniella;unclassified;19;Chlorophytes;113;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8.75;5.47;0
+Cryptophyta;Cryptomonas;marssonii;20;Unknown_small;149;0;9.01;22.1;82.02;36.34;0;0;0;0;10.77;218.72;1000.21;359.21;0;35.92;0;3262.09;21.87;624.35;0;0;145.02;0;33.15;134.66;139.98;158.57;0
+Cryptophyta;Cryptomonas;ovata;21;Unknown_small;2469;2.46;19.73;1.38;0;0;0;0;0;0;0;1.68;0;22.11;0;19.34;26.73;262.47;65.62;267.58;0;5.18;16.01;2.3;16.58;73.45;0;0;0
+Cryptophyta;Cryptomonas;unclassified;22;Unknown_small;1149;0;0;0;0;0;0;0;0;0;12.11;0;35.47;0;0;0;0;787.4;0;0;0;0;0;0;16.58;0;52.49;60.15;0
+Diatom;c.f. Cyclotella;unclassified;23;Diatom_small;116;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12.24;35;16.4;0
+Diatom;Cymbella;unclassified;24;Diatom_small;312;0.62;0;0;0;0;0;0;0;0;0.67;0;0;0;0;0;0;0;0;0;16.4;0;0;0;0;0;0;0;0
+Chrysophyta;Dinobryon;bavaricum;26;Chrysophytes;1840;2.46;0;19.34;203.1;319;54.06;0.78;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19.34;134.66;48.12;82.02;0
+Chrysophyta;Dinobryon;divergens;27;Chrysophytes;2435;25.26;0;124.33;42.96;0;0;32.81;0.96;0;0;23.55;70.94;5.7;0;0;0;0;0;0;0;2.92;0.89;0;0;36.73;39.37;16.4;0
+Chrysophyta;Dinobryon ;petiolatum;28;Chrysophytes;39;0;0;0;0;0;59.46;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12.24;4.37;38.28;0
+Cyanobacteria;Dolichospermum;planctonicum;29;Unknown_small;1541;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37.5;21.87;133.79;0;0;0;0;0;0;0;0;0
+Chlorophyta;Elakatothrix;unclassified;31;Chlorophytes;123;0;0;0;3.91;0;0;0;0;0;0;11.78;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Euglenoids;Eutreptia;unclassified;32;Unknown_small;42;0;9.01;17.96;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27.63;0;0;0;0
+Dinoflagellates;Borghiella;unclassified;34;Dinoflagellates;211;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7.29;0;0;0;0;0;0;0;0;0;0;0;0
+Chrysophyta;Kephyrion;ampoule;36;Chrysophytes;43;0;0;0;7.81;0;27.03;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36.73;0;49.21;1.9
+Chrysophyta;Kephyrion;u;37;Chrysophytes;14;0;0;0;0;12.11;54.06;0;0;0;0;0;0;91.23;0;0;0;0;0;0;0;0;0;0;0;73.45;13.12;21.87;0
+Chrysophyta;Mallomonas;caudata;39;Chrysophytes;316;0;0;69.07;7.81;0;0;0;0;0;0;11.78;7.09;22.81;0;0;0;0;21.87;74.33;0;0;0;0;0;48.97;0;0;0
+Chrysophyta;Mallomonas;tonsurata;40;Chrysophytes;388;0;0;0;3.91;4.04;0;0;0;0;0;0;0;0;0;0;0;0;43.74;0;0;0;0;0;0;0;17.5;43.74;0
+Cyanobacteria;Merismopedia;unclassified;41;Unknown_small;2177;0;0;0;0;0;5.41;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4.37;0;0
+Ciliates;Mesodinium;unclassified;42;Ciliates;2453;0;0;1.38;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10.94;0
+Chlorophyta;Oocystis;unclassified;44;Chlorophytes;7175;0;0;0;0;0;5.41;0;0;0;0;0;0;5.7;0;0;0;0;0;0;21.87;0;0;1.15;0;0;4.37;0;0
+Cyanobacteria;Pseudanabaena;unclassified;47;Unknown_small;152;0;0;0;0;0;0;0;0;0;0;0;0;5.7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Cyanobacteria;Picocyano;unclassified;48;Unknown_small;907;0;0;0;0;109.02;378.39;0;25.73;0;0;0;0;0;0;0;0;0;0;29.73;0;0;0.89;0;0;428.48;262.47;317.15;60.86
+Dinoflagellates;Peridinium;pointu;49;Dinoflagellates;4156;0.62;0;0;0;0;10.81;0;0;0;0;0;0;0;0;0;0;224.97;940.51;0;0;0.65;0;0;8.29;24.48;17.5;5.47;4.75
+Dinoflagellates;Peridinium;rond;50;Dinoflagellates;678;0;0;0;0;8.08;0;0;5.15;1.22;6.06;0;0;0;29.63;27.63;2.43;487.44;0;2170.36;10.94;8.75;7.12;0;0;0;0;0;4.75
+Haptophytes;Chrysochromulina;cœur;52;Chrysophytes;657;0;129.95;0;0;0;0;0;0;0;0;0;0;0;0;2.76;0;0;0;0;0;0;3.56;0;0;0;0;0;0
+Cyanobacteria;Rabdoderma;unclassified;54;Unknown_small;1181;0;0;0;0;4.04;10.81;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12.24;13.12;5.47;0
+Chlorophyta;Scenedesmus;unclassified;56;Chlorophytes;42;0;0;0;0;20.19;0;0;0;0;0;0;0;0;0;0;0;0;21.87;29.73;0;0;0;0;2.76;24.48;8.75;21.87;3.8
+Chlorophyta;Staurastrum;unclassified;57;Chlorophytes;1835;0;0;0;0;4.04;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ciliates;Strobilidium;unclassified;58;Ciliates;17157;0;0;5.53;3.91;0;0;0;0;0;0;20.19;7.09;5.7;0;0;0;74.99;43.74;14.87;0;4.21;0.89;1.15;8.29;12.24;8.75;0;0
+Diatom;Synedra;unclassified;59;Diatom_small;292;0;0;0;3.91;0;0;0;0;0;0.67;1.68;0;0;0;0;0;74.99;0;0;0;0;0;0;2.76;48.97;8.75;5.47;42.79
+Chrysophyta;Synura;uvella;60;Chrysophytes;5179;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;196.85;54.68;0
+Diatom;Tabellaria;fenestrata;62;Diatom_big;7553;0;0;0;0;4.04;0;164.82;0;0;0;0;0;0;0;16.58;0;112.49;0;0;0;0;0;0;0;24.48;0;5.47;24.73
+Chlorophyta;Tetrahedron;unclassified;63;Chlorophytes;42;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21.87;0;0;0;0;0;0;0;0;0;0
+Euglenoids;Trachelomonas;rond;64;Unknown_small;2520;0;0;0;0;0;0;0;0;0;0;0;0;0;0.71;2.76;0;0;0;74.33;5.47;0;0;0;0;0;0;0;0
+Euglenoids;Trachelomonas;oval;65;Unknown_small;1124;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8.29;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ciliates;Uronema;unclassified;67;Ciliates;1852;4.31;0;2.76;0;0;10.81;1.56;17.05;0;0;0;28.37;0;3.53;0;0;0;21.87;104.06;16.4;7.45;0.89;2.3;0;24.48;4.37;27.34;2.85
+Diatom;Urosolenia;unclassified;68;Diatom_small;72;0;0;0;0;0;70.27;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73.45;17.5;38.28;0
+Chlorophyta;c.f. Polytomella;unclassified;69;Chlorophytes;399;2.46;0;6.91;0;0;0;0;2.25;0;2.02;10.09;7.09;0;3.53;0;0;0;0;0;21.87;6.48;3.56;0;0;0;0;0;0
+Chrysophyta;Cherry;unclassified;71;Chrysophytes;657;0;0;0;0;0;881.12;0;0;0;3.36;0;1638.64;1345.63;0;0;0;0;5621.17;490.56;0;0;0;0;0;869.19;52.49;251.53;0
+Chlorophyta;Chlorogonium;unclassified;72;Chrysophytes;6;0;0;0;0;0;48.65;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Cercozoa;Unclassified_cercozoa;unclassified;73;Chrysophytes;150;0;0;41.44;867.08;0;151.36;0;0;491.97;161.52;193.49;21.28;51.32;0;74.6;230.87;0;43.74;118.92;0;0;0;0;0;171.39;96.24;235.13;0
+Cryptophyta;Small;unclassified;74;Unknown_small;139;0;0;5.53;0;0;0;0;0;0;0;0;0;0;0;0;0;674.91;196.85;0;0;0;0;0;0;0;83.11;169.51;0
+Cyanobacteria;Unclassified_cyano;unclassified;75;Unknown_big;3016;0;0;0;3.91;246.32;0;37.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17.5;5.47;0
+Chlorophyta;Ophiocytium;unclassified;76;Chlorophytes;45;0;0;0;0;0;0;0;0;0;20.19;0;0;11.4;0;0;7.29;0;0;0;0;0;0;0;0;0;39.37;32.81;0
+Cyanobacteria;Dolichospermum;c.f. cylindricum;77;NA;NA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;431.1;0;0;0;0;0;0;0;0;0
+Ciliates;c.f. Glaucoma;scintillans;78;Ciliates;16817;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14.87;0;0;0;0;0;0;0;0;0
+Flagellates;Flagelle_vert;unclassified;80;Unknown_small;76;0;0;0;0;0;102.71;0;0;0;0;0;0;153.95;0;0;0;0;0;0;0;0;0;0;5.53;1554.75;415.57;322.62;0
+Flagellates;Unclassified;unclassified;NA;NA;NA;0;0;5.53;0;20.19;43.24;0;0;12.21;6.73;107.68;0;5.7;0;132.61;178.12;374.95;174.98;0;0;0;136.13;0;0;12.24;0;0;0
+Diatom;Unclassified_diatom;unclassified;NA;NA;NA;1.23;0;0;35.15;4.04;0;0.78;5.15;0;2.69;5.05;7.09;45.61;0;0;2.43;74.99;0;0;21.87;6.16;0;1.15;0;12.24;0;0;31.38
+Chlorophyta;Pediastrum;tetras;NA;Chlorophytes;11966;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37.5;0;14.87;0;0;0;0;0;0;0;5.47;0
+Cyanobacteria;Aphanocapsa;unclassified;NA;Unknown_big;18945;0;0;0;0;0;0;4.69;0;0;0;0;0;0;0;0;0;0;612.42;0;0;0;0;0;0;0;0;0;0
+Chlorophyta;Closterium;unclassified;NA;NA;NA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44.6;0;0;0;0;0;0;0;0;0
+Unclassified;Rond_bacteria;unclassified;NA;NA;NA;0;0;0;35.15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44.6;0;0;0;0;5.53;12.24;0;0;0
+Dinoflagellates;Cysts;unclassified;NA;NA;NA;36.97;0;0;11.72;0;0;0;1.61;0;0;0;0;0;1.41;0;2.43;0;0;0;76.55;5.83;0;0;0;0;0;0;1.9
+Chlorophyta;Unclassified_chlorophyta;unclassified;NA;NA;NA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.97;0;0;0;0;0;0;0
+Unclassified;Boules_brunes;unclassified;NA;NA;NA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13.12;10.94;0
+Chlorophyta;Cosmarium;unclassified;NA;Chlorophytes;578;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4.37;0;0
+Chlorophyta;Crucigenia;unclassified;NA;Chlorophytes;135;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24.48;21.87;5.47;4.75
+Cyanobacteria;Cyanothece;unclassified;NA;NA;NA;0;0;0;0;0;5.41;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Chlorophyta;Desmid_chain;unclassified;NA;NA;NA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12.24;0;0;0
+Chlorophyta;Dictyosphaerium;unclassified;NA;NA;NA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4.37;0;0
+Ciliates;Elongated;unclassified;NA;NA;NA;0;0.43;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flagellates;Hairy;2;NA;NA;NA;0;0;0;0;0;27.03;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Euglenoids;Phacus;unclassified;NA;NA;NA;0;0;0;0;0;0;0;0;1.22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0

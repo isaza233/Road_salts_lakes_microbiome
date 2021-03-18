@@ -1,0 +1,97 @@
+**** File ****
+chem.csv
+
+**** Data **** 
+Chemistry data of samples from surface water (0-50 cm) 
+
+**** Missing data code ****
+NA
+
+**** Column description ****
+Column number ----- Column name [Unit]
+	Further description or details
+
+1 ----- Sample_ID [LLL_MMM_YY]
+	where LLL is the lake ID, MMM are the three first letters of the month and YY are the two last numbers of the year
+
+2 ----- Lake name [ ]
+
+3 ----- Year [YYYY]
+
+4 ----- Month [ ]
+	Full name in english with capital first letter
+
+5 ----- Season [ ]
+	Winter for January, February and March, Summer for the rest of the year
+
+6 ----- Month_ID [ ]
+	Unique number for combination of year and month
+
+7 ----- Cond_col [MicroSiemens per centimeter]
+	Average specific conductivity for the whole water column 
+
+8 ----- Cond_02m [MicroSiemens per centimeter]
+	Average specific conductivity for the two first meters of the water column 
+
+9 ----- Temp_col [Degree Celsius]
+	Average water temperature for the whole water column 
+
+10 ---- Temp_02m [Degree Celsius]
+	Average water temperature for the two first meters of the water column
+
+11 ---- Water_color [meter -1]
+	Absorption of the Colored Dissolved Organic Matter (CDOM) at 440 nm
+
+12 ---- Alcalnity [Milligram of calcium carbonate per liter]
+	Alkalinity of the surface water sample (0-50 cm)
+
+13 ---- DIC [Milligram of dissolved inorganic carbon per liter]
+	Dissolved inorganic carbon concentration in the surface water sample (0-50 cm)
+
+14 ---- TN [Milligram per liter]
+	Total nitrogen concentration in the surface water sample (0-50 cm)
+
+15 ---- TP [Microgram per liter]
+	Total phosphorus concentration in the surface water sample (0-50 cm)
+
+16 ---- DOC [Milligram of dissolved organic carbon per liter]
+	Dissolved organic carbon concentration in the surface water sample (0-50 cm)
+
+17 ---- SO4 [Milligram per liter]
+	Sulfates concentration in the surface water sample (0-50 cm)
+
+18 ---- Al [Milligram per liter]
+	Alumnium concentration in the surface water sample (0-50 cm)
+
+19 ---- Ca [Milligram per liter]
+	Calcium concentration in the surface water sample (0-50 cm)
+
+20 ---- Cl [Milligram per liter]
+	Chloride concentration in the surface water sample (0-50 cm)
+
+21 ---- Cu [Milligram per liter]
+	Copper concentration in the surface water sample (0-50 cm)
+
+22 ---- Fe [Milligram per liter]
+	Iron concentration in the surface water sample (0-50 cm)
+
+23 ---- K [Milligram per liter]
+	Potassium concentration in the surface water sample (0-50 cm)
+
+24 ---- Mg [Milligram per liter]
+	Magnesium concentration in the surface water sample (0-50 cm)
+
+25 ---- Mn [Milligram per liter]
+	Manganese concentration in the surface water sample (0-50 cm)
+
+26 ---- Na [Milligram per liter]
+	Sodium concentration in the surface water sample (0-50 cm)
+
+27 ---- S [Milligram per liter]
+	Sulfur concentration in the surface water sample (0-50 cm)
+
+28 ---- Si [Milligram per liter]
+	Silicon concentration in the surface water sample (0-50 cm)
+
+29 ---- Zn [Milligram per liter]
+	Zinc concentration in the surface water sample (0-50 cm)

@@ -1,0 +1,47 @@
+**** File ****
+Prok_abondance_taxo.csv
+
+**** Data **** 
+Number of reads per OTU per sample from 16S rRNA
+
+**** Missing data code ****
+NA
+
+**** Column description ****
+Column number ----- Column name [Unit]
+	Further description or details
+
+1 ----- OTU [ ]
+	Operational Taxonomic Unit number
+
+2 ----- taxo1 [ ]
+	Taxonomic Domain
+
+3 ----- taxo2 [ ]
+	Taxonomic Phylum
+
+4 ----- taxo3 [ ]
+	Taxonomic Class
+
+5 ----- taxo4 [ ]
+	Taxonomic Order
+
+6 ----- taxo5 [ ]
+	Taxonomic Family
+
+7 ----- taxo6 [ ]
+	Taxonomic Genus
+
+8 ----- taxo7 [ ]
+	Taxonomic Species
+
+9 ----- taxo8 [ ]
+	Taxonomic Species specifications
+
+10 - 52 Lake ID [Number of reads per sample]
+	Column names are samples ID as in chem.csv
+	LCT, LCL, LSA and LSC are lake names ID
+	The three letters are the month first three letters
+	The two digits are the last two digits of the year
+	F at the end denotes a bottom water sample (as oppose to surface for all others)
+	LSC had two sampling dates in August 2017, so there is also the sampling day (24 and 31)

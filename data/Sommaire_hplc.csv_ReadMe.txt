@@ -1,0 +1,39 @@
+**** File ****
+Sommaire_hplc.csv
+
+**** Data **** 
+Photosynthetic pigments concentrations from HPLC of samples from surface water (0-50 cm) 
+
+**** Missing data code ****
+NA
+
+**** Column description ****
+Column number ----- Column name [Unit]
+	Further description or details
+
+Note: this file contains a 7 lines heading that add information needed to calculate the concentration of pigments (dilution and Filtration_volume). These lines are taking care of in the R code so do not delete or change anything.
+
+1 ----- Time [minute]
+	Retention time of the pigment in the HPLC column
+
+2 ----- 0me [ ]
+	Unique identification name for each pigment. When spectrum is not visible, unknown carotenoids are identified as "x.p.rention_time", 	while unknown chlorophylls are identified as "x.f.rention_time". When spectrum are visible, unknown carotenoid are identified as "unk_caro_peak1_peak2_peak3"
+
+3 ----- Specter [ ]
+	fluo for Fluoresence spectroscopy (excitation 440 nm, emission 650 nm)
+	pda for Photodiode Array 450 nm	
+
+4 ----- Factor [ ]
+	conversion factor for the pigment from peak area to concentration in microgram per liter
+
+5 ----- Molar_mass [gram per mole]
+	
+6 - 113 Sample_ID [ ]
+	Area under the peak
+
+	Column names are samples ID as in chem.csv
+	LCT, LCL, LSA and LSC are lake names ID
+	The three letters are the month first three letters
+	The two digits are the last two digits of the year
+	F at the end denotes a bottom water sample (as oppose to surface for all others)
+	LSC had two sampling dates in August 2017, so there is also the sampling day (24 and 31)
